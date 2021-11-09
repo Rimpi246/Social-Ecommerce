@@ -1,6 +1,5 @@
-# NIT-SILCHAR-200-Running
+### A social e-commerce platform where users have niche-specific groups giving them individual spaces to share and discuss fashion.Features include creation and join groups.Option to post and comment in the fashion of a bulletin-board, thereby letting people see the newer trends first.Recommendation of groups based on the similar interests.Recommend clothes according to their likes and interests in their niche-specific groups.
 
-### Work only on the dev branch
 
 ### Routes
  * GET ```/``` -> Renders the Ecommerce Landing Page
